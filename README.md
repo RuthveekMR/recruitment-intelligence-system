@@ -1,4 +1,4 @@
-# Redrob Offline Candidate Ranker
+# Recruitment Intelligence System
 
 Deterministic, CPU-only candidate discovery and ranking system for the **Redrob Data & AI Challenge: Intelligent Candidate Discovery & Ranking**.
 
