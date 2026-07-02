@@ -12,14 +12,12 @@ This is not an LLM wrapper. The ranking path is an offline Python pipeline built
 
 Suggested badges for GitHub:
 
-```md
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![Runtime](https://img.shields.io/badge/runtime-CPU%20only-green)
 ![Network](https://img.shields.io/badge/ranking%20network-offline-lightgrey)
 ![Dependencies](https://img.shields.io/badge/runtime%20dependencies-standard%20library-blueviolet)
 ![Submission](https://img.shields.io/badge/submission-validator%20passed-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
-```
 
 ## Project Overview
 
