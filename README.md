@@ -1,5 +1,7 @@
 # Recruitment Intelligence System
 
+> **Finding candidates recruiters should actually call first.**
+
 Deterministic, CPU-only candidate discovery and ranking system for the **Redrob Data & AI Challenge: Intelligent Candidate Discovery & Ranking**.
 
 The repository ranks a 100,000-candidate pool for Redrob AI's **Senior AI Engineer - Founding Team** job description and produces a challenge-compliant `submission.csv` containing the top 100 candidates with evidence-based reasoning.
