@@ -1,0 +1,6 @@
+{
+  "output_rows": 10,
+  "retrieval_pool_size": 50,
+  "final_review_pool": 50,
+  "hard_filter_open_to_work": false
+}
