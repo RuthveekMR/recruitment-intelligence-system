@@ -16,8 +16,6 @@ Suggested badges for GitHub:
 ![Runtime](https://img.shields.io/badge/runtime-CPU%20only-green)
 ![Network](https://img.shields.io/badge/ranking%20network-offline-lightgrey)
 ![Dependencies](https://img.shields.io/badge/runtime%20dependencies-standard%20library-blueviolet)
-![Submission](https://img.shields.io/badge/submission-validator%20passed-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ## Project Overview
 
